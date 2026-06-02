@@ -10,7 +10,7 @@ Das Repository ergänzt den Artikel **„Hol OMA aus der Socke“**. Es enthält
 
 Die Python-Notebooks können ohne lokale Installation direkt im Browser geöffnet werden:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/USERNAME/REPOSITORY/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RVeh/oma-aus-der-socke/HEAD)
 
 Nach dem Start von Binder im Menü
 
