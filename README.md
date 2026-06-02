@@ -28,7 +28,7 @@ Der Start von Binder kann einige Zeit dauern.
 | ------------ | --------------------------------------------------------------------------------- |
 | `geogebra/`  | GeoGebra-Dateien zu den verschiedenen Modellierungen |
 | `notebooks/` | Python-Notebooks für Simulationen, rekursive und exakte Berechnungen              |
-| `pdf/`       | Begleitende PDF-Dokumente, u. a. zu GeoGebra, händischen Berechnungen, erzeugenden Funktionen und Matrizen (Tür zur Uni)|
+| `docs/`       | Begleitende PDF-Dokumente, u. a. zu GeoGebra, händischen Berechnungen, erzeugenden Funktionen und Matrizen (Tür zur Uni)|
 
 ---
 
