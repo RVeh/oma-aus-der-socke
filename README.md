@@ -68,7 +68,3 @@ Die PDF-Dateien enthalten ergänzende Darstellungen zu den mathematischen Hinter
 Sie sind als Zusatzmaterialien zum Artikel gedacht.
 
 ---
-
-## Hinweis
-
-Die Materialien richten sich an Lehrkräfte, die die Modellierungen im Unterricht oder zur eigenen Vorbereitung nachvollziehen, anpassen oder weiterentwickeln möchten.
