@@ -51,6 +51,9 @@ Die Python-Notebooks ergänzen die GeoGebra-Dateien. Sie ermöglichen unter ande
 
 Die Notebooks können entweder lokal mit Jupyter oder direkt über Binder ausgeführt werden.
 
+`01-Modell_2-4_Simulationen_mit_Wilson.ipynb` simuliert die Wartezeiten für die Modelle 2 bis 4 und erstellt zu den jeweiligen Verteilungen Grafiken mit punktweisen Wilson-Konfidenzintervallen. Die Grafiken werden zusätzlich als PNG- und PDF-Dateien gespeichert und können anschließend, z. B. in Binder, heruntergeladen werden.
+
+
 ---
 
 ## 📄 PDF-Dokumente
