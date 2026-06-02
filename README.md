@@ -26,9 +26,9 @@ Der Start von Binder kann einige Zeit dauern.
 
 | Ordner       | Inhalt                                                                            |
 | ------------ | --------------------------------------------------------------------------------- |
-| `geogebra/`  | GeoGebra-Dateien zu den verschiedenen Modellierungen                              |
+| `geogebra/`  | GeoGebra-Dateien zu den verschiedenen Modellierungen |
 | `notebooks/` | Python-Notebooks für Simulationen, rekursive und exakte Berechnungen              |
-| `pdf/`       | Begleitende PDF-Dokumente, u. a. zu GeoGebra, erzeugenden Funktionen und Matrizen |
+| `pdf/`       | Begleitende PDF-Dokumente, u. a. zu GeoGebra, händischen Berechnungen, erzeugenden Funktionen und Matrizen (Tür zur Uni)|
 
 ---
 
@@ -51,7 +51,7 @@ Die Python-Notebooks ergänzen die GeoGebra-Dateien. Sie ermöglichen unter ande
 
 Die Notebooks können entweder lokal mit Jupyter oder direkt über Binder ausgeführt werden.
 
-`01-Modell_2-4_Simulationen_mit_Wilson.ipynb` simuliert die Wartezeiten für die Modelle 2 bis 4 und erstellt zu den jeweiligen Verteilungen Grafiken mit punktweisen Wilson-Konfidenzintervallen. Die Grafiken werden zusätzlich als PNG- und PDF-Dateien gespeichert und können anschließend, z. B. in Binder, heruntergeladen werden.
+*01-Modell_2-4_Simulationen_mit_Wilson.ipynb* simuliert die Wartezeiten für die Modelle 2 bis 4 und erstellt zu den jeweiligen Verteilungen Grafiken mit punktweisen Wilson-Konfidenzintervallen. Die Grafiken werden zusätzlich als PNG- und PDF-Dateien gespeichert und können anschließend, z. B. in Binder, heruntergeladen werden.
 
 
 ---
