@@ -31,6 +31,13 @@ Der Start von Binder kann einige Zeit dauern.
 | `docs/`       | Begleitende PDF-Dokumente, u. a. zu GeoGebra, händischen Berechnungen, erzeugenden Funktionen und Matrizen (Tür zur Uni)|
 
 ---
+## Ausformulierter Zusatztext
+
+Der Text `Modell-4-mit-Zuruecklegen.pdf` ergänzt den Artikel um eine
+ausführlichere Darstellung von Modell 4. Er enthält die GeoGebra-Simulation,
+die Herleitung der Verteilung, die Kenngrößen für allgemeines \(p\) sowie
+einen optionalen Blick über die Schule hinaus („Tür zur Uni“).
+---
 
 ## 🧮 GeoGebra-Dateien
 
