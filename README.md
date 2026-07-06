@@ -30,8 +30,8 @@ Der Start von Binder kann einige Zeit dauern.
 | `notebooks/` | Python-Notebooks für Simulationen, rekursive und exakte Berechnungen              |
 | `docs/`       | Begleitende PDF-Dokumente, u. a. zu GeoGebra, händischen Berechnungen, erzeugenden Funktionen und Matrizen (Tür zur Uni)|
 
-## Modell 4 - mit zurücklegen
-Der Text `Modell-4-mit-Zuruecklegen.pdf` ergänzt den Artikel um eine
+## Modell 4 - mit Zurücklegen
+Der Text in  `Modell-4-mit-Zuruecklegen.pdf` ergänzt den Artikel um eine
 ausführlichere Darstellung von Modell 4. Er enthält die GeoGebra-Simulation,
 die Herleitung der Verteilung, die Kenngrößen für allgemeines \(p\) sowie
 einen optionalen Blick über die Schule hinaus („Tür zur Uni“).
