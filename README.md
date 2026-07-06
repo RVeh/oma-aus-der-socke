@@ -12,7 +12,7 @@ Die Python-Notebooks können ohne lokale Installation direkt im Browser geöffne
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RVeh/oma-aus-der-socke/HEAD)
 
-Nach dem Start von Binder im Menü
+Nach dem Start von Binder im Menü 
 
 `Run` → `Run All Cells`
 
