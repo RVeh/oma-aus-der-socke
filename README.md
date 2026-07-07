@@ -33,7 +33,7 @@ Der Start von Binder kann einige Zeit dauern.
 ## Modell 4 - mit Zurücklegen
 Der Text in  `Modell-4-mit-Zuruecklegen.pdf` ergänzt den Artikel um eine
 ausführlichere Darstellung von Modell 4. Er enthält die GeoGebra-Simulation,
-die Herleitung der Verteilung, die Kenngrößen für allgemeines p sowie
+die Herleitung der Verteilung, die Kenngrößen für allgemeines $p$ sowie
 einen optionalen Blick über die Schule hinaus („Tür zur Uni“).
 
 ## 🧮 GeoGebra-Dateien
