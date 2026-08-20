@@ -50,6 +50,7 @@ Die Python-Notebooks ergänzen die GeoGebra-Dateien. Sie ermöglichen unter ande
 
 * Simulationen der Wartezeiten,
 * rekursive Berechnungen der Verteilungen,
+* rekursive Berechnung der Varianz für T_2,
 * exakte Berechnungen für ausgewählte Modelle,
 * grafische Darstellungen der Ergebnisse.
 
